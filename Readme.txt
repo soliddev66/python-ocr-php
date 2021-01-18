@@ -1,6 +1,5 @@
-Hello, Chen
 
-Please follow these steps
+##  installation  ############
 
 1. install python
 2. install regex, opencv-python, pytesseract packages
